@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "ocacleAddress",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GenerateRandonNo.sol": "GenerateRandonNo"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GenerateRandonNo.sol": {
+			"keccak256": "0x799fce2b5207f84503f9256e61d5c27fb154ca87a10dbda0afe01da48b5fd5f5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8e65395471742d3184f746bda0c7a110f0c49265e28f6eb9d08d356ad3acc7a9",
+				"dweb:/ipfs/QmWaVqFqeBMSFVZBjxAtpUwmPrv7W6fLHWbdAmjfLzRZcA"
+			]
+		}
+	},
+	"version": 1
+}

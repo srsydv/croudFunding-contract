@@ -1,0 +1,56 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_data",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/mngcollectionofsmartcontract.sol": "Child"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/mngcollectionofsmartcontract.sol": {
+			"keccak256": "0xd45366f54118f439005071b56819ead846eb1e352bb2455556b4d14338abc518",
+			"urls": [
+				"bzz-raw://9e033cc14e9787effcc1c11b50299f8eaf93b88ee0ff27e2adbcd0df6a0f7962",
+				"dweb:/ipfs/QmTrnBmugawpCTM5tgMbURBh8JR8yfgcrE5RBmwLC2usoy"
+			]
+		}
+	},
+	"version": 1
+}
